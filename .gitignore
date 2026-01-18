@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+
+# Environments
+venv/
+.venv/
+
+# Artifacts
+artifacts/
+*.png
+
+# Large data (kept local)
+whd_predictive_dataset.json
+whd_whisard.csv
+whd_whisard_first100.csv
+whd_metadata.csv
+whd_data_dictionary.csv
